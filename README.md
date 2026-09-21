@@ -1,3 +1,3 @@
 # PROGRAMMING COURSE
 
-This repository contains 
+This repository contains home assignments from Basics of Programming Course
